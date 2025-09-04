@@ -1,6 +1,6 @@
 {
-  "bypassVersion": 3,
-  "libs": "https://github.com/KawKabMod/imguiloader/raw/refs/heads/main/KawKab.zip",
+  "bypassVersion": 4,
+  "libs": "https://github.com/KawKabMod/imguiloader/raw/refs/heads/main/AAndK.zip",
   "gamesList": [
     {
       "title": "PUBG GLOBAL",
