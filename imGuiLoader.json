@@ -1,5 +1,5 @@
 {
-  "bypassVersion": 3,
+  "bypassVersion": 4,
   "libs": "https://github.com/KawKabMod/imguiloader/raw/refs/heads/main/imGuiLoader.zip",
   "gamesList": [
     {
