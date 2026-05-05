@@ -1,24 +1,21 @@
 {
   "keys": [
     {
-      "user_key": "ELPAPPA_PREMIUM",
-      "serial": ["4b9d-your-device-uuid-here"],
+      "user_key": "VIP_SQUAD", 
+      "serial": [
+        "b9def84e-4ad6-3047-bb59-4126e446d48f",
+        "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
+        "ID"
+      ],
       "expiry": "2026-12-30",
-      "max_devices": 2,
+      "max_devices": 5, 
       "is_blocked": false
     },
-    {
-      "user_key": "BURNED_USER",
-      "serial": [],
-      "expiry": "2026-01-01",
-      "max_devices": 1,
-      "is_blocked": true
-    },
-    {
-      "user_key": "NEW_USER",
-      "serial": [],
-      "expiry": "2026-06-15",
-      "max_devices": 1,
+    { 
+      "user_key": "FREE_FOR_ALL",
+      "serial": ["unlimited"], 
+      "expiry": "2026-05-15",
+      "max_devices": 999999,
       "is_blocked": false
     }
   ]
