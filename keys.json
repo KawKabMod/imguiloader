@@ -1,22 +1,24 @@
 {
   "keys": [
     {
-      "user_key": "VIP_SQUAD",
-      "is_blocked": false,
-      "max_devices": 10,
-      "expiry": "unlimited", 
-      "users": [
-        { "id": "b9def84e-4ad6-3047-bb59-4126e446d48f", "expire_date": "2026-06-01" },
-        { "id": "a1b2c3d4-e5f6-7890-abcd-1234567890ab", "expire_date": "2026-07-15" }
-        { "id": "acbcda59-3cc5-3d9e-b0ed-d322a6aca5cb", "expire_date": "2026-07-15" }
-        
-      ]
+      "user_key": "Kawkab_Free_123",
+      "expiry": "2026-12-30",
+      "serial": ["unlimited"],
+      "is_blocked": false
     },
     {
-      "user_key": "FREE_USER",
-      "serial": ["unlimited"],
-      "expiry": "2026-05-10",
-      "max_devices": 999999,
+      "user_key": "Kawkab_VIP_999",
+      "max_devices": 2,
+      "users": [
+        {
+          "id": "15682934", 
+          "expire_date": "2026-06-01"
+        },
+        {
+          "id": "87654321",
+          "expire_date": "2026-07-15"
+        }
+      ],
       "is_blocked": false
     }
   ]
