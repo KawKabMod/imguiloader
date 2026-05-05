@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "user_key": "MAHMOUD_123",
+      "serial": "DEVICE_ID_HERE",
+      "expiry": "2026-12-31",
+      "status": "active"
+    },
+    {
+      "user_key": "KawKabxHarly_free",
+      "serial": "",
+      "expiry": "2026-06-01",
+      "status": "active"
+    }
+  ]
+}
