@@ -1,16 +1,25 @@
 {
   "keys": [
     {
-      "user_key": "MAHMOUD_123",
-      "serial": "DEVICE_ID_HERE",
-      "expiry": "2026-12-31",
-      "status": "active"
+      "user_key": "ELPAPPA_PREMIUM",
+      "serial": ["4b9d-your-device-uuid-here"],
+      "expiry": "2026-12-30",
+      "max_devices": 2,
+      "is_blocked": false
     },
     {
-      "user_key": "KawKabxHarly_free",
-      "serial": "",
-      "expiry": "2026-06-01",
-      "status": "active"
+      "user_key": "BURNED_USER",
+      "serial": [],
+      "expiry": "2026-01-01",
+      "max_devices": 1,
+      "is_blocked": true
+    },
+    {
+      "user_key": "NEW_USER",
+      "serial": [],
+      "expiry": "2026-06-15",
+      "max_devices": 1,
+      "is_blocked": false
     }
   ]
 }
